@@ -6,13 +6,6 @@ A simple Flutter app for managing bus routes.
 
 This project is a basic template for a Flutter app, designed for selecting bus locations and calculating fares.
 
-### Resources:
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For more Flutter development resources, check out the [documentation](https://docs.flutter.dev/).
-
-
 
 ## App Screenshots
 
